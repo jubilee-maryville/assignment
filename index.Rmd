@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "Jubilee's Page"
 output: html_document
 ---
 
