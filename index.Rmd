@@ -19,25 +19,26 @@ output: html_document
 
 # **Jubilee's Assignment**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+## Week 1
+During week 1, I reviewed my Rstudio workspace and learned how to create an R Markdown notebook. The discussion for the week focused on model performance and overfitting.
 
-## How to use
+## Week 2
+During week 2, I learned new R Tools to explore data using summary statistics and visualization, and how to clean up data that has missing values (NAs).
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+## Week 3
+During week 3, I learned how to perform linear regression in R and how to interpret those results. I also perfomed basic hypothesis testing on the linear regression model.
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+## Week 4
+During week 4, I learned how to build a logistic regression model and how to evaluate the performance of a classifer using a confusion matrix. When evaluating a model's performance, we need to balance the accuracy of our precision and recall measurements.
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+## Week 5
+During week 5, I compared simple linear regression models with Generalized Linear Models (GLM). There are different types of generalized linear models to use dependent on the dataset's characteristics.
 
-4. Change everything to make it your own.
+## Week 6
+During week 6, I learned more about decision tree models and how to create  a random forest model. In a random forest model, we can determine which predictors are most important.
 
+## Week 7
+During week 7, I learned about K-Means clustering and how to determine the optimal number of clusters and the the elements in each cluster.
 
-</div>
-<div class="col-sm-6">
-
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
-
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
-</a>
-</div>
+## Week 8
+During week 8, I learned how to create presentation slides in R and a GitHub account.
